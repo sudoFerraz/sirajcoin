@@ -51,7 +51,7 @@ class refer_handler(object):
             session.flush()
             return new_refer
 
-class subscribe_handler(object):
+class subscription_handler(object):
     def __init__(self):
         pass
 
